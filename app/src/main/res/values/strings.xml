@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exammurraniy</string>
+    <string name="a_string">A</string>
+    <string name="b_string">B</string>
+    <string name="c_string">C</string>
+    <string name="d_string">D</string>
+    <string name="start_string">Start</string>
+    <string name="new_string">New</string>
+</resources>
